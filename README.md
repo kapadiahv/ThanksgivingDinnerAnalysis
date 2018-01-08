@@ -1,9 +1,9 @@
-# ThanksgivingDinnerAnalysis
+# Thanksgiving Dinner Analysis
 
 
 Thanksgiving Dinner Analysis
 In this project, I will be using a jupyter notebook with Python, and analyzing data on Thanksgiving dinner in the US. I will primarily ue the Pandas library to aide with the analysis. 
-The dataset came from FiveThirtyEight and can be found in the below article.
+The dataset came from FiveThirtyEight and can be found here ->
 https://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving/
 
 The dataset is stored in the thanksgiving.csv file. It contains 1058 responses to an online survey about what Americans eat for Thanksgiving dinner. Each survey respondent was asked questions about what they typically eat for Thanksgiving, along with some demographic questions, like their gender, income, and location. This dataset will allow us to discover regional and income-based patterns in what Americans eat for Thanksgiving dinner.
