@@ -1,7 +1,5 @@
 # Thanksgiving Dinner Analysis
 
-
-Thanksgiving Dinner Analysis
 In this project, I will be using a jupyter notebook with Python, and analyzing data on Thanksgiving dinner in the US. I will primarily ue the Pandas library to aide with the analysis. 
 The dataset came from FiveThirtyEight and can be found here ->
 https://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving/
